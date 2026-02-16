@@ -1,0 +1,1 @@
+    app.use(express.static('public')); // Assuming your frontend files are in a 'public' folder
